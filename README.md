@@ -9,7 +9,7 @@ Magento Marketplace Seller Coupons is a plugin that allows sellers to create cou
  	<li>Supports all working languages including RTL.</li>
  	<li>Compatible with Multi-Store.</li>
 </ul>
-<strong>Install <a href="https://www.magebay.com/magento-multi-vendor-marketplace-extension">Magento Multi Vendor Marketplace</a> to be able to use this plugin</strong>
+<strong>Install <a href="https://www.magebay.com/magento-multi-vendor-marketplace-extension">Magento2 Multi Vendor Marketplace</a> to be able to use this plugin</strong>
 
 <strong><em>- Contact </em><em>us:</em><em> info@magebay.com</em></strong>
 
